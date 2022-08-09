@@ -1,0 +1,255 @@
+{
+  "main-page": {
+    "content": "Strona główna",
+    "header": "Szkolna 17",
+    "Uniwersum": "Uniwersum w pigułce - Uniwersum Szkolnej 17, znane też za Uniwersum Kononowicza, Uniwersum Szkolna 17, US17 – mroczna, surrealistyczna, pełna wyjątkowo charakternych postaci, tajemnych placów i zdarzeń kraina, położona w otoczeniu domku drewnianego przy ul. Szkolnej 17 w Białymstoku. Jej główną atrakcją sam szalone/szalone perypetie Krzysztofa Kononowicza, Majora Suchodolskiego i ich licznych znajomych. Uniwersum jest w całości kompatybilne z/ze światem zewnętrznym i każdy może jest swobodnie edytować (bez np. wysłanie pakietu bożej). Nie obowiązują tu tradycyjne prawa logiki. Obecnie bez lateksową cenzurę niestety zagubiło większość swojego klasycznego klimatu. Trwa powszechne oczekiwanie na dzień jej wyzwolenia, co ma kiedyś przyjść.",
+    "Belweder": "Plan belwederu"
+  },
+  "auth":
+  {
+    "log-in": "Logowanie",
+    "login": "Login",
+    "password": "Hasło",
+    "zaloguj": "Zaloguj się",
+    "wyloguj": "Wyloguj się"
+  },
+  "validation":
+  {
+    "messages":
+    {
+      "notEmpty": "Pole jest wymagane",
+      "date": "Data nie może być z przyszłości",
+      "alfaErr": "Znaki powinny być literami",
+      "numberErr": "Znaki powinny być cyframi",
+      "len_3_20":"Pole powinno zawierać minimum 3 znaki i maksimum 20 znaków",
+      "len_3_40":"Pole powinno zawierać minimum 3 znaki i maksimum 50 znaków",
+      "len_4_4":"Pole powinno zawierać równo 4 znaki",
+      "len_5_8":"Pole powinno zawierać minimum 5 znaki i maksimum 8 znaków",
+      "len_1_50":"Pole powinno zawierać minimum 1 znak i maksimum 50 znaków",
+      "len_1_500":"Pole powinno zawierać minimum 1 znak i maksimum 500 znaków",
+      "len_1_8":"Pole powinno zawierać minimum 1 znak i maksimum 8 znaków"
+    }
+  },
+  "erorrs":
+  {
+    "formsErr": "Formularz zawiera błędy",
+    "requireErr": "Pole jest wymagane",
+    "lengthErr1": "Pole powinno zawierać ",
+    "lengthErr2": "znaków",
+    "lettersErr": "Pole musi zawierać tylko litery",
+    "numberErr": "Pole musi zawierać tylko cyfry",
+    "dateErr": "Data nie może być z przyszłości",
+    "loginErr": "Nieprawidłowy login lub hasło"
+  },
+  "nav": {
+    "main-page": "Strona główna",
+    "Szkolniacy": "Szkolniacy",
+    "Bio": "Biuro Interwencji Obywatelskich",
+    "Afery": "Afery",
+    "Slownik": "Słownik",
+    "Potrawy": "Potrawy",
+    "Choroszcz": "Choroszcz",
+    "Zgloszenie": "Donos"
+  },
+  "buttons": {
+    "delete": "Usuń",
+    "edit": "Edytuj",
+    "details": "Szczegóły"
+  },
+  "form": {
+    "actions": {
+      "return": "Powrót",
+      "edit": "Edytuj",
+      "cancel": "Anuluj",
+      "add": "Dodaj"
+    }
+  },
+  "choroszcz":
+  {
+    "title": "Formularz zapisania Wojtka S. na badania",
+    "miejsce": "Miejsce szpitala"
+  },
+  "szkol": {
+    "fields": {
+      "Imie": "Imię",
+      "Nazwisko": "Nazwisko",
+      "DataUrodzenia": "Data urodzenia",
+      "Zdjecie": "Zdjecie",
+      "Haslo": "Hasło",
+      "Akcje": "Akcje"
+    },
+    "list": {
+      "title": "Lista szkolniaków",
+      "details": "Szczegóły szkolniaków",
+      "addNew": "Dodaj szkolniaka",
+      "edit": "Edytuj szkolniaka"
+    },
+    "Details": {
+      "Afery": {
+        "title1": "Afery szkolniaka",
+        "title2": "Przypisz aferę",
+        "fields":
+        {
+          "Nazwa": "Nazwa",
+          "Opis": "Opis",
+          "Data": "Data",
+          "Link": "Link",
+          "Akcja": "Akcja"
+        }
+      },
+      "Potrawy":
+      {
+        "title1": "Potrawy szkolniaka",
+        "title2": "Przypisz potrawę",
+        "fields":
+        {
+          "Nazwa": "Nazwa",
+          "Opis": "Opis",
+          "Skladniki": "Składniki",
+          "Czas": "Czas przygotowania (min)",
+          "Kcal": "Kcal",
+          "Akcja": "Akcja"
+        }
+      },
+      "buttons":
+      {
+        "add" : "Dodaj",
+        "delete": "Usuń",
+        "back": "Powrót",
+        "addForm": "Nowy szkolniak",
+        "editForm": "Edytuj szkolniaka"
+      }
+    }
+  },
+  "bio":
+  {
+    "title": "Biuro Interwencji Obywatelskich",
+    "title1": "Opis",
+    "title2": "Zakres działań",
+    "OpisField": "Organizacja została założona w 2006 roku z inicjatywy Krzysztofa Kononowicza oraz Adama Czeczetkowicza. Miała ona służyć do ocieplenia wizerunku niedoszłego prezydenta i pokazania go od strony dynamicznego działacza społecznego. Obecnie nie jest ona oficjalnie zarejestrowana. Do jej największych sukcesów należy wysłanie na terapię olkoholową Majora Suchodolskiego, Mexicano i Mariusza z Krzaków. Organizacja objęła także kuratelę nad dysfunkcyjną rodziną Łosiów z ul. Rzemieślniczej.",
+    "ZakresField": "Siedzibą Biura interwencji Obywatelskich jest dom należący do Krzysztofa Kononowicza, zlokalizowany przy ul. Szkolnej 17 w Białymstoku. Biuro Interwencji Obywatelskiej działa w szerokim zakresie tj. edukacji, kultury i sztuki, kombatantów, młodzieży, pomocy społecznej, ochrony środowiska, zwierząt, niepełnosprawnych i zdrowia, turystyki oraz współpracy międzynarodowej. Prowadzi także zakrojone na szeroką skalę działania profilaktyczne w zakresie przeciwdziałania olkoholizmowi i zażywaniu środków oburzających. Jest to pic na wodę, ponieważ w rzeczywistości Knur pisze tam donosy na wszystkich i na wszystko. Sam zainteresowany uważa, że jest on wielkim społecznikiem działającym na korzyść ogółu i powinien być za to noszony na rękach.",
+    "details": "Szczegóły biura"
+  },
+
+  "Afery":
+  {
+    "title": "Lista afer",
+    "fields":
+    {
+      "Nazwa": "Nazwa",
+      "Opis": "Opis",
+      "Data": "Data",
+      "Link": "Link",
+      "Akcje": "Akcje"
+    },
+    "buttons":
+    {
+      "edit": "Edytuj",
+      "add": "Dodaj nową aferę",
+      "delete": "Usuń",
+      "addForm": "Nowa afera",
+      "editForm": "Edytuj aferę"
+    },
+    "form":
+    {
+      "Nazwa": "Nazwa",
+      "Opis": "Opis",
+      "Data": "Data",
+      "Link": "Link",
+      "buttons":
+      {
+        "add": "Dodaj",
+        "cancel": "Anuluj",
+        "back": "Powrót"
+      }
+    }
+  },
+  "Samochody":
+  {
+    "title": "Lista Samochodów",
+    "fields":
+    {
+      "Nazwa": "Nazwa",
+      "Kondycja": "Kondycja sprzęgła",
+      "Rocznik": "Rocznik",
+      "Rejestracja": "Rejestracja",
+      "Zdjecie": "Zdjęcie",
+      "Akcje": "Akcje"
+    },
+    "buttons":
+    {
+      "edit": "Edytuj",
+      "add": "Dodaj nowy powóz",
+      "delete": "Usuń",
+      "addForm": "Nowy samochód",
+      "editForm": "Edytuj samochód"
+    },
+    "form":
+    {
+      "Nazwa": "Nazwa",
+      "Kondycja": "Kondycja sprzęgła",
+      "Rocznik": "Rocznik",
+      "Rejestracja": "Rejestracja",
+      "Zdjecie": "Zdjęcie",
+      "buttons":
+      {
+        "add": "Dodaj",
+        "cancel": "Anuluj",
+        "back": "Powrót"
+      }
+    }
+  },
+  "Slownik":
+  {
+    "title": "Lista słów",
+    "fields":
+    {
+      "polski": "Polski",
+      "bombaski": "Bombaski",
+      "akcje": "Akcje",
+      "add": "Dodaj nowe słowo"
+    },
+    "form":
+    {
+      "polski": "Polski",
+      "bombaski": "Bombaski",
+      "add": "Dodaj",
+      "cancel": "Anuluj",
+      "back": "Powrót",
+      "addForm": "Nowe słowo",
+      "editForm": "Edytuj słowo"
+    }
+  },
+  "Potrawy":
+  {
+    "title": "Lista potraw",
+    "fields":
+    {
+      "Nazwa": "Nazwa",
+      "Opis": "Opis",
+      "Skladniki": "Składniki",
+      "Czas": "Czas przygotowania (min)",
+      "Kcal": "Kcal",
+      "Akcje": "Akcja"
+    },
+    "buttons":
+    {
+      "edit": "Edytuj",
+      "add": "Dodaj nową potrawę",
+      "delete": "Usuń",
+      "addForm": "Nowa potrawa",
+      "editForm": "Edytuj potrawę"
+    },
+    "form":
+    {
+      "Nazwa": "Nazwa",
+      "Opis": "Opis",
+      "Skladniki": "Składniki",
+      "Czas": "Czas przygotowania (min)",
+      "Kcal": "Kcal",
+      "add": "Dodaj",
+      "cancel": "Anuluj",
+      "back": "Powrót"
+    }
+  }
+}
