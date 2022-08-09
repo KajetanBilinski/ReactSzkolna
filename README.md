@@ -1,6 +1,6 @@
 # React Szkolna 
-Jest to oparta na react'cie projekt współpracujący z bazą danych
-
+Jest to oparty na REACT projekt współpracujący z bazą danych. Na stronie obowiązują role wyznaczają różne funkcjonalności między innymi :
+modyfikowanie dodawanie jak i usuwanie danych - mogą robić tylko zarejestrowani użytkownicy. Admin inaczej Szef Szkolniaków ma dostęp do dodatkowych podstron i ich funkcji. Zawartość i tematyka strony jest nawiązaniem do popularnego uniwersum szkolnej 17 w którym to główną i najbardziej rozpoznawalną postacią jest Krzysztof Kononowicz. 
 ### Instalacja
 
 Zainstalowanie Node.js
