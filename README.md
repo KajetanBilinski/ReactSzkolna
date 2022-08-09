@@ -14,6 +14,32 @@ Po stronie serwera uruchomić npm start w projekcie oraz w folderze docker uruch
 
 Po stronie klienta uruchomić npm start w projekcie
 
+### Instrukcja instalacji
+
+#### 1.  Docker
+
+Zainstalowanie dockera.
+Przejście do ścieżki “config/mysql2/db.js” następnie sprawdzenie czy wartość database: ‘SzkolnaBase2’ jest poprawna
+Wejście przez terminal do folderu “Docker” oraz wprowadzenie komendy “docker-compose up”
+Przez dowolną przeglądarkę wejść na adres “http://localhost:8183”. 
+Serwer : mysql
+Użytkownik : root 
+Hasło : root
+Utworzenie nowej bazy danych o nazwie ‘SzkolnaBase2’
+Przejście do zakładki SQL i wprowadzenie kodu do utworzenia przykładowych danych oraz tabel.
+
+#### 2.	Node.js
+
+Zainstalowanie Node.js
+Uruchomienie “Node.js Command Prompt”
+Zainstalowanie potrzebnych bibliotek komendą “npm i”
+Po instalacji wszystkiego uruchomienie komendy “npm start”
+
+
+### Instrukcja obsługi
+	Wejście na “http://localhost:3000/Index”.
+
+
 ### Funkcjonalności
 
 
